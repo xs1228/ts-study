@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    "module": "ES2015",//设置打包后的版本，但有点问题像promise这些好像转换不了
-    "target": "ES2015",
-    "strict": true,
-    "noEmitOnError": true
-  }
-}
